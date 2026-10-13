@@ -18,7 +18,7 @@ concurrency:
   group: nyrr-volunteer-watcher
   # A fresh trigger replaces a loop still running, rather than queueing
   # behind it for hours.
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   check:
