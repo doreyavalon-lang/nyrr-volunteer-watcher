@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-20T16:15:18+00:00",
+ "checked_at": "2026-10-20T16:30:37+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/2026-tcs-new-york-city-marathon-expo-volunteers": {
    "name": "2026 TCS New York City Marathon Expo - Volunteers",
@@ -60,7 +60,7 @@
     },
     "Course Marshal - Midtown": {
      "nine_one": true,
-     "status": "sold-out",
+     "status": "near-capacity",
      "tags": [
       "9+1"
      ]
@@ -273,7 +273,7 @@
     },
     "Fluid Station North": {
      "nine_one": true,
-     "status": "sold-out",
+     "status": "near-capacity",
      "tags": [
       "9+1"
      ]
@@ -532,7 +532,7 @@
    "roles": {
     "Youth Event Assistant": {
      "nine_one": true,
-     "status": "sold-out",
+     "status": "near-capacity",
      "tags": [
       "9+1"
      ]
@@ -800,21 +800,21 @@
    "roles": {
     "Ambassador": {
      "nine_one": true,
-     "status": "advanced-registration",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
     },
     "Bag Check": {
      "nine_one": true,
-     "status": "advanced-registration",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
     },
     "Course Marshal": {
      "nine_one": true,
-     "status": "advanced-registration",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
@@ -829,14 +829,14 @@
     },
     "Post-Race Amenities": {
      "nine_one": true,
-     "status": "advanced-registration",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
     },
     "Start and Finish Marshal": {
      "nine_one": true,
-     "status": "advanced-registration",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
@@ -905,7 +905,7 @@
     },
     "Post-Race Amenities": {
      "nine_one": true,
-     "status": "advanced-registration",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
@@ -931,28 +931,28 @@
    "roles": {
     "Ambassador": {
      "nine_one": true,
-     "status": "advanced-registration",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
     },
     "Bag Check": {
      "nine_one": true,
-     "status": "advanced-registration",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
     },
     "Course Marshal": {
      "nine_one": true,
-     "status": "advanced-registration",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
     },
     "Fluid Station": {
      "nine_one": true,
-     "status": "advanced-registration",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
@@ -967,14 +967,14 @@
     },
     "Post-Race Amenities": {
      "nine_one": true,
-     "status": "advanced-registration",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
     },
     "Start and Finish Marshal": {
      "nine_one": true,
-     "status": "advanced-registration",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
@@ -1000,7 +1000,7 @@
     },
     "Bag Check": {
      "nine_one": true,
-     "status": "advanced-registration",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
@@ -1069,28 +1069,28 @@
    "roles": {
     "Ambassador": {
      "nine_one": true,
-     "status": "advanced-registration",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
     },
     "Bag Check": {
      "nine_one": true,
-     "status": "advanced-registration",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
     },
     "Course Marshal North": {
      "nine_one": true,
-     "status": "advanced-registration",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
     },
     "Course Marshal South": {
      "nine_one": true,
-     "status": "advanced-registration",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
@@ -1119,14 +1119,14 @@
     },
     "Post-Race Amenities": {
      "nine_one": true,
-     "status": "advanced-registration",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
     },
     "Start and Finish Marshal": {
      "nine_one": true,
-     "status": "advanced-registration",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
@@ -1145,35 +1145,35 @@
    "roles": {
     "Ambassador": {
      "nine_one": true,
-     "status": "advanced-registration",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
     },
     "Bag Check": {
      "nine_one": true,
-     "status": "advanced-registration",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
     },
     "Course Marshal North": {
      "nine_one": true,
-     "status": "advanced-registration",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
     },
     "Course Marshal South": {
      "nine_one": true,
-     "status": "advanced-registration",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
     },
     "Fluid Station": {
      "nine_one": true,
-     "status": "advanced-registration",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
@@ -1188,14 +1188,14 @@
     },
     "Post-Race Amenities": {
      "nine_one": true,
-     "status": "advanced-registration",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
     },
     "Start and Finish Marshal": {
      "nine_one": true,
-     "status": "advanced-registration",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
