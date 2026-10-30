@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-30T23:17:17+00:00",
+ "checked_at": "2026-10-30T23:47:45+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/2026-tcs-new-york-city-marathon-expo-volunteers": {
    "name": "2026 TCS New York City Marathon Expo - Volunteers",
@@ -1047,75 +1047,6 @@
      ]
     },
     "Volunteer Leaders and Leaders in Training (No +1)": {
-     "nine_one": false,
-     "status": "available",
-     "tags": [
-      "No +1"
-     ]
-    }
-   }
-  },
-  "https://www.nyrr.org/races-and-events/2027/nyrr-washington-heights-salsa-blues-and-shamrocks-5k-volunteers": {
-   "name": "NYRR Washington Heights Salsa, Blues, and Shamrocks 5K - Volunteers",
-   "roles": {
-    "Ambassador": {
-     "nine_one": true,
-     "status": "sold-out",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Bag Check": {
-     "nine_one": true,
-     "status": "sold-out",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Course Marshal North": {
-     "nine_one": true,
-     "status": "sold-out",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Course Marshal South": {
-     "nine_one": true,
-     "status": "sold-out",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Fluid Station": {
-     "nine_one": true,
-     "status": "sold-out",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Medical Volunteers (Must be licensed in New York State)": {
-     "nine_one": true,
-     "status": "available",
-     "tags": [
-      "medical",
-      "9+1"
-     ]
-    },
-    "Post-Race Amenities": {
-     "nine_one": true,
-     "status": "sold-out",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Start and Finish Marshal": {
-     "nine_one": true,
-     "status": "sold-out",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Volunteer Leaders (reserved for Volunteers Leaders and Leaders in Training ONLY)": {
      "nine_one": false,
      "status": "available",
      "tags": [
