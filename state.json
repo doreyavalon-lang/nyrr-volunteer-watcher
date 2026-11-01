@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-01T10:49:58+00:00",
+ "checked_at": "2026-11-01T11:35:37+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/2026-tcs-new-york-city-marathon-expo-volunteers": {
    "name": "2026 TCS New York City Marathon Expo - Volunteers",
@@ -434,25 +434,6 @@
     "Post-Marathon Ambassador": {
      "nine_one": true,
      "status": "registration-closed",
-     "tags": [
-      "9+1"
-     ]
-    }
-   }
-  },
-  "https://www.nyrr.org/races-and-events/2026/pre-marathon-support-volunteers": {
-   "name": "Pre-Marathon Support - Volunteers",
-   "roles": {
-    "Expo Bib Support": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Training Support": {
-     "nine_one": true,
-     "status": "completed",
      "tags": [
       "9+1"
      ]
