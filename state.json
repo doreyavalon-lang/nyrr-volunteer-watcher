@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-03T23:18:40+00:00",
+ "checked_at": "2026-11-04T00:04:54+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/nyrr-cross-country-series-3-volunteers": {
    "name": "NYRR Cross Country Series #3 - Volunteers",
@@ -660,82 +660,6 @@
      ]
     },
     "Volunteer Leaders and Leaders in Training (NO +1)": {
-     "nine_one": false,
-     "status": "available",
-     "tags": [
-      "No +1"
-     ]
-    }
-   }
-  },
-  "https://www.nyrr.org/races-and-events/2027/nyrr-manhattan-10k-volunteers": {
-   "name": "NYRR Manhattan 10K - Volunteers",
-   "roles": {
-    "Ambassador": {
-     "nine_one": true,
-     "status": "sold-out",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Bag Check": {
-     "nine_one": true,
-     "status": "sold-out",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Course Marshal North": {
-     "nine_one": true,
-     "status": "sold-out",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Course Marshal South": {
-     "nine_one": true,
-     "status": "sold-out",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Fluid Station North": {
-     "nine_one": true,
-     "status": "sold-out",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Fluid Station South": {
-     "nine_one": true,
-     "status": "sold-out",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Medical Volunteers (Must be licensed in New York State)": {
-     "nine_one": true,
-     "status": "available",
-     "tags": [
-      "medical",
-      "9+1"
-     ]
-    },
-    "Post-Race Amenities": {
-     "nine_one": true,
-     "status": "sold-out",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Start and Finish Marshal": {
-     "nine_one": true,
-     "status": "sold-out",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Volunteer Leaders and Leaders in Training (No +1)": {
      "nine_one": false,
      "status": "available",
      "tags": [
